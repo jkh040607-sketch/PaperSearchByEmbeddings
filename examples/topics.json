@@ -1,0 +1,17 @@
+[
+  {
+    "id": "llm_agents",
+    "title": "LLM Agents and Tool Use",
+    "query": "large language model agents tool use planning reasoning memory evaluation benchmark"
+  },
+  {
+    "id": "diffusion_policies",
+    "title": "Diffusion Policies for Control",
+    "query": "diffusion policy trajectory generation continuous control imitation learning offline reinforcement learning"
+  },
+  {
+    "id": "time_series_forecasting",
+    "title": "Time-Series Forecasting",
+    "query": "time series forecasting probabilistic prediction foundation models sequence modeling uncertainty"
+  }
+]

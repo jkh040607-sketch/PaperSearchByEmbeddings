@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local secrets and machine-specific config
+.env
+.env.*
+*.pem
+*.key
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Generated paper corpora, caches, and search outputs
+outputs/
+data/
+*.npy
+cache_*.npy
+results*.json
+*_papers.json
+*.json.gz
+*.csv
+*.bib
+search_report*.md
+pdfs/
